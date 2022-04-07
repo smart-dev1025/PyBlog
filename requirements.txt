@@ -9,3 +9,4 @@ python-memcached==1.59
 pytz==2020.4
 six==1.15.0
 sqlparse==0.4.2
+graphene_django==2.15.0
